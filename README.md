@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Artificial Intelligence And Data Engineering
 - 💻 Languages and Tools:
     • C/C++
-    • Assembly
     • Java
     • Python
     • Kotlin
@@ -15,9 +14,8 @@
     • MongoDB
     • Redis
     • Neo4J
-
-
-  
+    • Docker
+    
 
 <!---
 gabrielemarino-gm/gabrielemarino-gm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
