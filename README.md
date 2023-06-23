@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabrielemarino-gm
 - 👀 I’m interested in AI and Data Analysis
 - 🌱 I’m currently learning Artificial Intelligence And Data Engineering
-- 💻 I know the following coding languages, database and style sheet:
+- 💻 Languages and Tools:
     • C/C++
     • Assembly
     • Java
