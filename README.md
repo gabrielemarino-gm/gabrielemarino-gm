@@ -11,9 +11,22 @@ I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuo
 ## Languages and Tools 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,php,js,html,css,tailwind,redis,mongodb,mysql,linux,idea,docker,vscode,latex)" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,php,js,html,css,tailwind,redis,mongodb,mysql,linux,idea,docker,vscode,)" />
   </a>
 </p>
+
+
+<div>
+<ul align="center">
+
+**My GitHub Stats 📊**
+</ul>
+
+<ul align="center", href="https://github.com/anuraghazra/github-readme-stats">
+<img height=140, src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemarino-gm&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5">
+<img height=140, src = "https://github-readme-stats.vercel.app/api?username=gabrielemarino-gm&show_icons=true&theme=dark">
+</ul>
+</div>
 
 
 
