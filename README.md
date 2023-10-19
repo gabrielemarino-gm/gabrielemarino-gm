@@ -17,7 +17,7 @@
 <div>
 <ul align="center", href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150, src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemarino-gm&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5">
-    <div style="width: 10px; opacity: 0.5;"></div>
+    <div style="width: 1px; opacity: 0.5;"></div>
     <img height=150, src = "https://github-readme-stats.vercel.app/api?username=gabrielemarino-gm&show_icons=true&theme=dark">
 </ul>
 </div>
