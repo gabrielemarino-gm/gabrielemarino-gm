@@ -1,6 +1,6 @@
 # Hello, I'm Gabriele! 👋
-25 Year Old, form Italy 🇮🇹 <br>
-I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuously expanding my skills in this field.
+- 25 Year Old, form Italy 🇮🇹
+- I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuously expanding my skills in this field.
 
 ## What I'm currently learning 🌱
 - Artificial Intelligence and Data Engineering
