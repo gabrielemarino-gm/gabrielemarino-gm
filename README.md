@@ -3,8 +3,7 @@
 I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuously expanding my skills in this field.
 
 ## What I'm currently learning 🌱
-- Artificial Intelligence
-- Data Engineering
+- Artificial Intelligence and Data Engineering
 
 ## Languages and Tools 💻
 - C/C++
