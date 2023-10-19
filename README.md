@@ -10,9 +10,7 @@ I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuo
 
 ## Languages and Tools 💻
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,php,js,html,css,tailwind,redis,mongodb,mysql,linux,idea,docker,vscode,)" />
-  </a>
 </p>
 
 ## My GitHub Stats 📊
