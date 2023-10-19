@@ -5,7 +5,7 @@ I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuo
 ## What I'm currently learning 🌱
 - Artificial Intelligence and Data Engineering
 
-  ## Education 🎓
+## Education 🎓
 - Bachelor's Degree in Computer Engineering from the University of Pisa
 
 ## Languages and Tools 💻
