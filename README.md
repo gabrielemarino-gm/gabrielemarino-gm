@@ -16,8 +16,8 @@
 ## My GitHub Stats 📊
 <div>
 <ul align="center", href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=160, src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemarino-gm&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5">
-    <img height=160, src = "https://github-readme-stats.vercel.app/api?username=gabrielemarino-gm&show_icons=true&theme=dark">
+    <img height=170, src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemarino-gm&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5">
+    <img height=170, src = "https://github-readme-stats.vercel.app/api?username=gabrielemarino-gm&show_icons=true&theme=dark">
 </ul>
 </div>
 
