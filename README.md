@@ -15,10 +15,6 @@ I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuo
   </a>
 </p>
 
-
-<div>
-
-
 ## My GitHub Stats 📊
 <div align="center>
   <ul href="https://github.com/anuraghazra/github-readme-stats">
