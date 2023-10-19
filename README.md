@@ -26,7 +26,13 @@ I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuo
 ## You can find me
 <p align="center">
   <a href="https://www.instagram.com/gabrielemarino.exe/">
-    <img src="https://skillicons.dev/icons?i=ig)"/>
+    <img src="https://skillicons.dev/icons?i=instagram)"/>
+  </a>
+  <a href="https://twitter.com/1gabry98">
+    <img src="https://skillicons.dev/icons?i=twitter)"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ing-gabrielemarino98/">
+    <img src="https://skillicons.dev/icons?i=linkein)"/>
   </a>
 </p>
 
