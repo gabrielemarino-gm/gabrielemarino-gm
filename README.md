@@ -21,7 +21,7 @@
 </ul>
 </div>
 
-## You can find me 🌐
+## How Find Me 🌐
 <p align="center">
   <a href="https://www.instagram.com/gabrielemarino.exe/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
