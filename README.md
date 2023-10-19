@@ -11,6 +11,7 @@
 ## Languages and Tools 💻
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,php,js,html,css,tailwind,redis,mongodb,mysql,linux,idea,docker,vscode,)" />
+    <img src="https://github.com/gabrielemarino-gm/gabrielemarino-gm/blob/main/neo4j_logo.png"\>
 </p>
 
 ## My GitHub Stats 📊
