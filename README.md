@@ -6,8 +6,11 @@ I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuo
 - Artificial Intelligence and Data Engineering
 
 ## Languages and Tools 💻
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,php,js,html,css,tailwind,redis,mongodb,mysql,linux,idea,docker,vscode)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,php,js,html,css,tailwind,redis,mongodb,mysql,linux,idea,docker,vscode)" />
+  </a>
+</p>
 
 
 
