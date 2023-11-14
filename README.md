@@ -23,13 +23,13 @@
 
 ## How To Find Me 🌐
 <p align="center">
-  <a href="https://www.instagram.com/gabrielemarino.exe/">
+  <a style="text-decoration: none;" href="https://www.instagram.com/gabrielemarino.exe/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
-  <a href="https://twitter.com/1gabry98/">
+  <a style="text-decoration: none;" href="https://twitter.com/1gabry98/">
     <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/ing-gabrielemarino98/">
+  <a style="text-decoration: none;"href="https://www.linkedin.com/in/ing-gabrielemarino98/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
