@@ -10,7 +10,7 @@
 
 ## Languages and Tools 💻
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,php,js,html,css,tailwind,redis,mongodb,mysql,linux,idea,docker,vscode,latex)" />
+    <img src="https://skillicons.dev/icons?i=(c,cpp,java,kotlin,py,php,js,html,css,tailwind,redis,mongodb,mysql,linux,idea,docker,vscode,latex)" />
 </p>
 
 ## My GitHub Stats 📊
