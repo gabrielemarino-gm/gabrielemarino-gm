@@ -1,5 +1,6 @@
 # Hello, I'm Gabriele! 👋
 - 25 Year Old, from Italy 🇮🇹
+- I'm a Computer Engineer
 - I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuously expanding my skills in this field.
 
 ## What I'm currently learning 🌱
