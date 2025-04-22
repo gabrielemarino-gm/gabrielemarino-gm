@@ -1,12 +1,11 @@
 # Hello, I'm Gabriele! 👋
 - 26 Year Old, from Italy 🇮🇹
 - I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuously expanding my skills in this field.
-
-## What I'm currently learning 🌱
-- Artificial Intelligence and Data Engineering
+- My biggest passion is for the Formula 1!
 
 ## Education 🎓
 - Bachelor's Degree in Computer Engineering from the University of Pisa
+- Master's Degree in Artificial Intelligence and Data Engineering  from the University of Pisa
 
 ## Languages and Tools 💻
 <p align="center">
