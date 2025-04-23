@@ -10,7 +10,7 @@
 ## Languages and Tools 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,pytorch,sklearn,matlab,php,js,html,css,tailwind,redis,mongodb,mysql,linux,idea,docker,vscode,latex" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,pytorch,sklearn,matlab,php,js,html,css,tailwind,redis,mongodb,mysql,linux,idea,docker,vscode,latex,git" />
   </a>
 </p>
 
