@@ -2,8 +2,8 @@ name: Update Age in README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # eseguito ogni giorno a mezzanotte UTC
-  workflow_dispatch: # ti permette di avviarlo manualmente
+    - cron: '0 0 1 10 *' # eseguito ogni 1° ottobre a mezzanotte UTC
+  workflow_dispatch: # ti permette di avviarlo manualmente se vuoi
 
 jobs:
   update-readme:
@@ -14,9 +14,13 @@ jobs:
 
       - name: Update age
         run: |
-          BIRTH_YEAR=1998
-          CURRENT_YEAR=$(date +%Y)
-          AGE=$((CURRENT_YEAR - BIRTH_YEAR))
+          BIRTHDATE="1998-10-01"
+          TODAY=$(date +%Y-%m-%d)
+          # calcolo età precisa
+          AGE=$(( $(date -d "$TODAY" +%Y) - $(date -d "$BIRTHDATE" +%Y) ))
+          if [ "$(date -d "$TODAY" +%m%d)" -lt "$(date -d "$BIRTHDATE" +%m%d)" ]; then
+            AGE=$((AGE - 1))
+          fi
           sed -i "s/- [0-9]\+ Year Old/- ${AGE} Year Old/" README.md
 
       - name: Commit and push changes
