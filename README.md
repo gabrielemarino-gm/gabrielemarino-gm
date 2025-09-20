@@ -1,5 +1,5 @@
 # Hello, I'm Gabriele! 👋
-- 27 Year Old, from Italy 🇮🇹
+- 26 Year Old, from Italy 🇮🇹
 - I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuously expanding my skills in this field.
 - My biggest passion is for the Formula 1!
 
