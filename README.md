@@ -3,6 +3,10 @@
 - I'm passionate about Artificial Intelligence and Data Analysis, and I'm continuously expanding my skills in this field.
 - My biggest passion is for the Formula 1!
 
+## 🏎️ Current Role
+- **Junior AI Engineer** at **[Dallara](https://www.dallara.it/)**  
+  *Applying AI, Machine Learning, and Data-Driven modeling to high-performance motorsport and vehicle dynamics.*
+  
 ## Education 🎓
 - Bachelor's Degree in Computer Engineering from the University of Pisa
 - Master's Degree in Artificial Intelligence and Data Engineering  from the University of Pisa
